@@ -1,0 +1,8 @@
+/dev/*
+/proc/*
+/run/*
+/tmp/*
+/media/*
+/var/cache/apt/*
+/sys/*
+/lost+found/*
